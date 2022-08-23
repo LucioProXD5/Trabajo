@@ -1,0 +1,26 @@
+D:\Lucio Franzon 5º7º\ejercicio git 1\ejercicio git 1\bin\Debug\ejercicio git 1.exe.config
+D:\Lucio Franzon 5º7º\ejercicio git 1\ejercicio git 1\bin\Debug\ejercicio git 1.exe
+D:\Lucio Franzon 5º7º\ejercicio git 1\ejercicio git 1\bin\Debug\ejercicio git 1.pdb
+D:\Lucio Franzon 5º7º\ejercicio git 1\ejercicio git 1\bin\Debug\ejercicio git 1.xml
+D:\Lucio Franzon 5º7º\ejercicio git 1\ejercicio git 1\obj\Debug\ejercicio git 1.vbprojAssemblyReference.cache
+D:\Lucio Franzon 5º7º\ejercicio git 1\ejercicio git 1\obj\Debug\ejercicio_git_1.ventana1.resources
+D:\Lucio Franzon 5º7º\ejercicio git 1\ejercicio git 1\obj\Debug\ejercicio_git_1.Resources.resources
+D:\Lucio Franzon 5º7º\ejercicio git 1\ejercicio git 1\obj\Debug\ejercicio_git_1.ventana2.resources
+D:\Lucio Franzon 5º7º\ejercicio git 1\ejercicio git 1\obj\Debug\ejercicio git 1.vbproj.GenerateResource.cache
+D:\Lucio Franzon 5º7º\ejercicio git 1\ejercicio git 1\obj\Debug\ejercicio git 1.vbproj.CoreCompileInputs.cache
+D:\Lucio Franzon 5º7º\ejercicio git 1\ejercicio git 1\obj\Debug\ejercicio git 1.exe
+D:\Lucio Franzon 5º7º\ejercicio git 1\ejercicio git 1\obj\Debug\ejercicio git 1.xml
+D:\Lucio Franzon 5º7º\ejercicio git 1\ejercicio git 1\obj\Debug\ejercicio git 1.pdb
+D:\Lucio Franzon 5º7º\Ejercicios git\ejercicio git 1\ejercicio git 1\bin\Debug\ejercicio git 1.exe.config
+D:\Lucio Franzon 5º7º\Ejercicios git\ejercicio git 1\ejercicio git 1\bin\Debug\ejercicio git 1.exe
+D:\Lucio Franzon 5º7º\Ejercicios git\ejercicio git 1\ejercicio git 1\bin\Debug\ejercicio git 1.pdb
+D:\Lucio Franzon 5º7º\Ejercicios git\ejercicio git 1\ejercicio git 1\bin\Debug\ejercicio git 1.xml
+D:\Lucio Franzon 5º7º\Ejercicios git\ejercicio git 1\ejercicio git 1\obj\Debug\ejercicio git 1.vbprojAssemblyReference.cache
+D:\Lucio Franzon 5º7º\Ejercicios git\ejercicio git 1\ejercicio git 1\obj\Debug\ejercicio_git_1.ventana1.resources
+D:\Lucio Franzon 5º7º\Ejercicios git\ejercicio git 1\ejercicio git 1\obj\Debug\ejercicio_git_1.Resources.resources
+D:\Lucio Franzon 5º7º\Ejercicios git\ejercicio git 1\ejercicio git 1\obj\Debug\ejercicio_git_1.ventana2.resources
+D:\Lucio Franzon 5º7º\Ejercicios git\ejercicio git 1\ejercicio git 1\obj\Debug\ejercicio git 1.vbproj.GenerateResource.cache
+D:\Lucio Franzon 5º7º\Ejercicios git\ejercicio git 1\ejercicio git 1\obj\Debug\ejercicio git 1.vbproj.CoreCompileInputs.cache
+D:\Lucio Franzon 5º7º\Ejercicios git\ejercicio git 1\ejercicio git 1\obj\Debug\ejercicio git 1.exe
+D:\Lucio Franzon 5º7º\Ejercicios git\ejercicio git 1\ejercicio git 1\obj\Debug\ejercicio git 1.xml
+D:\Lucio Franzon 5º7º\Ejercicios git\ejercicio git 1\ejercicio git 1\obj\Debug\ejercicio git 1.pdb
